@@ -16,6 +16,15 @@ My focus areas include Kubernetes, AWS, Infrastructure as Code, CI/CD, GitOps, m
 - **Systems & Scripting:** Linux, Bash, Python (basic scripting), Git, YAML, REST APIs, HTTP, Networking/DNS
 - **Security Scanning:** Trivy (automated filesystem vulnerability and secret scanning)
 
+## Professional Experience
+
+**Application Engineering Associate — Accenture**  
+*Bengaluru, India | Mar 2024–Present*
+
+- Support containerized application workflows using Docker Compose and assist with Docker Swarm/Stack and Kubernetes deployment investigations.
+- Contributed to Azure DevOps organization migration activities across Boards, Repos, Pipelines, Test Plans, and Artifacts, using migration utilities and REST APIs.
+- Support enterprise application troubleshooting, pipeline support, and access-administration activities.
+
 ## Featured Projects
 
 ### [EKS Production-Oriented Platform](https://github.com/nagateja-2002/eks-production-platform)
