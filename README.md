@@ -42,6 +42,12 @@ A practical local Kind lab covering common Kubernetes failures, troubleshooting 
 
 A containerized application deployment project involving FastAPI, Docker, Kubernetes, automated tests, security scanning, and GitHub Actions.
 
+### [Dockerized Web App](https://github.com/nagateja-2002/dockerwebapp)
+
+[![Docker Web App CI](https://github.com/nagateja-2002/dockerwebapp/actions/workflows/ci.yml/badge.svg)](https://github.com/nagateja-2002/dockerwebapp/actions/workflows/ci.yml)
+
+A lightweight Python web app with a responsive landing page, JSON health endpoint, non-root Docker image, Trivy scanning, and a container smoke test. CI verifies tests, image build, and live container health.
+
 ## Engineering Interests
 
 - Site Reliability Engineering
