@@ -13,26 +13,34 @@ My focus areas include Kubernetes, AWS, Infrastructure as Code, CI/CD, GitOps, m
 - **Infrastructure as Code:** Terraform, Ansible, AWS CloudFormation
 - **CI/CD & GitOps:** GitHub Actions, Azure Pipelines, Jenkins, Argo CD
 - **Monitoring & Observability:** Prometheus, Grafana, Alertmanager
-- **Systems & Scripting:** Linux, Bash, Python, Git, YAML, REST APIs, HTTP, Networking/DNS
-- **DevSecOps:** SonarQube, Trivy, OWASP
+- **Systems & Scripting:** Linux, Bash, Python (basic scripting), Git, YAML, REST APIs, HTTP, Networking/DNS
+- **Security Scanning:** Trivy (automated filesystem vulnerability and secret scanning)
 
 ## Featured Projects
 
 ### [EKS Production-Oriented Platform](https://github.com/nagateja-2002/eks-production-platform)
 
-A hands-on platform engineering project focused on AWS EKS, Kubernetes, Terraform, GitOps, CI/CD, and observability.
+[![EKS CI](https://github.com/nagateja-2002/eks-production-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/nagateja-2002/eks-production-platform/actions/workflows/ci.yml)
+
+A hands-on platform engineering project focused on AWS EKS, Kubernetes, Terraform, GitOps, CI/CD, and observability. Automated checks cover application tests, Trivy scanning, Terraform validation, and Helm rendering.
 
 ### [Production Monitoring & Incident Response Lab](https://github.com/nagateja-2002/production-monitoring-incident-lab)
 
-A monitoring and incident-response lab using FastAPI, Prometheus, Grafana, alerting rules, incident scenarios, and runbooks.
+[![Monitoring CI](https://github.com/nagateja-2002/production-monitoring-incident-lab/actions/workflows/ci.yml/badge.svg)](https://github.com/nagateja-2002/production-monitoring-incident-lab/actions/workflows/ci.yml)
+
+A local monitoring and incident-response lab using FastAPI, Prometheus, Grafana, alerting rules, incident simulations, and runbooks.
 
 ### [Kubernetes Troubleshooting Lab](https://github.com/nagateja-2002/kubernetes-troubleshooting-lab)
 
-A practical lab covering common Kubernetes failures, troubleshooting commands, diagnosis, and recovery.
+[![Manifest validation](https://github.com/nagateja-2002/kubernetes-troubleshooting-lab/actions/workflows/validate-manifests.yml/badge.svg)](https://github.com/nagateja-2002/kubernetes-troubleshooting-lab/actions/workflows/validate-manifests.yml)
+
+A practical local Kind lab covering common Kubernetes failures, troubleshooting commands, diagnosis, and recovery.
 
 ### [FastAPI CI/CD Kubernetes Platform](https://github.com/nagateja-2002/fastapi-cicd-kubernetes-platform)
 
-A containerized application deployment project involving FastAPI, Docker, Kubernetes, automated tests, and GitHub Actions.
+[![FastAPI CI](https://github.com/nagateja-2002/fastapi-cicd-kubernetes-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/nagateja-2002/fastapi-cicd-kubernetes-platform/actions/workflows/ci.yml)
+
+A containerized application deployment project involving FastAPI, Docker, Kubernetes, automated tests, security scanning, and GitHub Actions.
 
 ## Engineering Interests
 
