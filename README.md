@@ -63,8 +63,13 @@ A lightweight Python web app with a responsive landing page, JSON health endpoin
 - Microsoft Azure Fundamentals (AZ-900)
 - Microsoft Power Platform Fundamentals (PL-900)
 
+## Open to Opportunities
+
+Interested in DevOps Engineer, Junior SRE, Cloud Engineer, and Platform Engineering roles focused on infrastructure automation, Kubernetes, CI/CD, and observability.
+
 ## Connect
 
+- **Email:** [nagatejasannala@gmail.com](mailto:nagatejasannala@gmail.com)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/nagatejareddysannala/)
 - **Resume:** [View My Resume](https://docs.google.com/document/d/1knPGzW-dYy4MgtkbHxYEUQoMdI-hFKHC/edit?usp=sharing&ouid=111719472599495995783&rtpof=true&sd=true)
 - **GitHub:** [nagateja-2002](https://github.com/nagateja-2002)
